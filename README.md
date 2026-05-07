@@ -37,9 +37,10 @@ https://github.com/user-attachments/assets/f6da3c5c-2f20-4054-9eab-c4b8ad8e2e0a
 ![3d_front](assets/rc_car_3d_front.png)
 ![3d_back](assets/rc_car_3d_back.png)
 
-# How to order
-- Download the zip file
-- Upload the zip file to JLCPCB
-- Select PCBA and continue
-- Upload BOM.csv and position.csv
-- Select the parts and submit payment
+# Fabrication and Assembly Instructions
+To manufacture and assemble this board via JLCPCB, follow these steps:
+- Download the project .zip file from the repository.
+- Upload the .zip file to the JLCPCB ordering portal.
+- Select the PCBA (PCB Assembly) option and proceed to the next page.
+- Upload the provided BOM.csv (Bill of Materials) and position.csv (CPL/Pick and Place) files.
+- Verify the component selection alignments and submit your payment.
